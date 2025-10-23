@@ -1,2 +1,2 @@
 # Goaty
-This repo is for the Goaty project 
+This repo is for the Goaty project
